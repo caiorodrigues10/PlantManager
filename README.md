@@ -74,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <hr>
 <div align="center">
-  <sub>Copyright © 2021-present, hmartiins.</sub>
+  <sub>Copyright © 2021-present, Caio H. Rodrigues.</sub>
 </div>
 <hr>
